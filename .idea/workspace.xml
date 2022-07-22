@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83fb0ad9-47e1-4a8a-80d4-e4224dcf1c51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.idea/Mini_Test_CRUD_Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/Sevlet_JSP_JSTL_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/webapp/display_discount.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.idea/MaiThanhHai_SV.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/build/libs/ThiThu_C0322g1-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/build/libs/ThiThu_C0322g1-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/classes/java/main/controller/HomeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/classes/java/main/controller/HomeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/classes/java/main/model/HocVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/classes/java/main/model/HocVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/libs/Minitest_Module3-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/libs/Minitest_Module3-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/java/model/HocVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/java/model/HocVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/createHocVien.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/createHocVien.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/showHocVien.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/showHocVien.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/libs/DemoLogin-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/libs/DemoLogin-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/src/main/java/connect_MySQL/Connect_MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/src/main/java/connect_MySQL/Connect_MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/src/main/webapp/product-request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/src/main/webapp/product-request.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/java/com/example/chuyendoitiente/ConverterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/java/com/example/chuyendoitiente/ConverterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/controller/StaffServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/controller/StaffServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/StaffDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/StaffDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/webapp/home.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2B0KRTPcslWEzxy7LmbhkeJ6Wz1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Module 3",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Module 3\M3_9_tong_quan_ung_dung_web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration name="MucLuc_doctruyen.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Module 3/CSS_module3/MucLuc_doctruyen.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Module 3/CSS_module3/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.MucLuc_doctruyen.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83fb0ad9-47e1-4a8a-80d4-e4224dcf1c51" name="Changes" comment="" />
+      <created>1656037553422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656037553422</updated>
+      <workItem from="1656037554689" duration="8242000" />
+      <workItem from="1656049941427" duration="659000" />
+      <workItem from="1656051935782" duration="343000" />
+      <workItem from="1656052536465" duration="2413000" />
+      <workItem from="1656062066285" duration="1988000" />
+      <workItem from="1656079025821" duration="595000" />
+      <workItem from="1656294216154" duration="11848000" />
+      <workItem from="1656312051478" duration="2322000" />
+      <workItem from="1656314429367" duration="9660000" />
+      <workItem from="1656327170576" duration="4241000" />
+      <workItem from="1656340521817" duration="3000" />
+      <workItem from="1656387517573" duration="1267000" />
+      <workItem from="1656415689548" duration="1554000" />
+      <workItem from="1656825701781" duration="1920000" />
+      <workItem from="1656828134571" duration="399000" />
+      <workItem from="1656828856054" duration="190000" />
+      <workItem from="1656829554225" duration="15000" />
+      <workItem from="1656835398833" duration="237000" />
+      <workItem from="1657102296061" duration="330000" />
+      <workItem from="1657134088878" duration="2054000" />
+      <workItem from="1657163933214" duration="682000" />
+      <workItem from="1657243529430" duration="334000" />
+      <workItem from="1658114951511" duration="5159000" />
+      <workItem from="1658388054689" duration="629000" />
+      <workItem from="1658477373694" duration="1735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

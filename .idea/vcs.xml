@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien" vcs="Git" />
+  </component>
+</project>

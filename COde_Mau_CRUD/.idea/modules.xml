@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/COde_Mau_CRUD.iml" filepath="$PROJECT_DIR$/.idea/COde_Mau_CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duanmau/build/build.iml" filepath="$PROJECT_DIR$/duanmau/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duanmau/src/duanmau.iml" filepath="$PROJECT_DIR$/duanmau/src/duanmau.iml" />
+    </modules>
+  </component>
+</project>

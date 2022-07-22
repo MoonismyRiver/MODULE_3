@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2995e624-a454-4e35-8690-c5f00f69b00f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/controller/HomeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/dao/config/ClassRoomDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/dao/config/ConnectMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/dao/config/HocVienDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/model/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/model/HocVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/service/ClassRoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/java/service/HocVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/webapp/view/CreateHocVien.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/NguyenTung_SV/src/main/webapp/view/showHocVien.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/connectMySQL/ConnectMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/controller/StaffServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/StaffDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/model/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/model/PhongBan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/webapp/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai2_RangBuoc_Khoa/PhieuXuatNHapHang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai2_RangBuoc_Khoa/QuanLiDiemThi.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/src/main/java/com/example/case_web_ban_sach/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/src/main/java/com/example/case_web_ban_sach/HelloResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/src/main/java/com/example/case_web_ban_sach/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CASE_WEB_BAN_SACH/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSS_module3/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSS_module3/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ChuyenDoiTienTe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassicModel/CREATE_PROCEDURE.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassicModel/ClassicModelTable.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassicModel/StoreProcedure.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassicModel/index.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassicModel/view.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/src/main/java/connect_MySQL/Connect_MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3/src/main/java/connect_MySQL/Connect_MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Facebook/FaceBook.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiBanHang/InsertBanHang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiBanHang/QuanLiBanHang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiCungCapXe/Select_GroupBy.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiCungCapXe/Table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiDiemSinhVien/QuanLiDiemSinhVien.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiDiemSinhVien/Table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiSinhVienSQL/GroupBy.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiSinhVienSQL/HamThongDung.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiSinhVienSQL/Insert_quanLiSinhVien.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiSinhVienSQL/QuanLiSinhVien.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiSinhVienSQL/Select_QuanLiSinhVIen.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuanLiSinhVienSQL/TruyVan2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.idea/artifacts/Quan_li_Sinh_vien_Servlet_SQL_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.idea/artifacts/Quan_li_Sinh_vien_Servlet_SQL_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_Sinh_vien_Servlet_SQL/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/java/controller/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/java/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/java/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/java/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/error-404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quan_li_khach_hang/src/main/webapp/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StudentTest.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test 2/Insert.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test 2/QuanLySinhVien.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test 2/Select_Update.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thi_thu_M3/.idea/Thi_thu_M3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thi_thu_M3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thi_thu_M3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thi_thu_M3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thi_thu_M3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thi_thu_M3/Thi_Thu_C0322g1_Module3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TicketFilm/TicketFilm.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TicketFilm/TruyVan.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/src/main/java/com/example/tudien_dongian/TranslationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TuDien_DonGian/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.64/webapps/ROOT/WEB-INF/classes/com/example/simple_login/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.64/webapps/ROOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.64/webapps/ROOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.64/webapps/ROOT/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Thi_Thu_C0322g1_Module3" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BYsC7Xh2LOXSftoIk3UNNbY6CZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Module 3/Demo_cac_loai/Thi_thu_M3",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.641" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.641" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="433565ed-5479-4f60-b50c-77db8c5fa2c7" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55596" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2995e624-a454-4e35-8690-c5f00f69b00f" name="Changes" comment="" />
+      <created>1657094222985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657094222985</updated>
+      <workItem from="1657094224426" duration="6000" />
+      <workItem from="1657162801853" duration="233000" />
+      <workItem from="1657508877577" duration="1136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
