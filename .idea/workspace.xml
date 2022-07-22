@@ -9,8 +9,10 @@
       <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/webapp/display_discount.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
@@ -30,6 +32,7 @@
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/home.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
@@ -47,6 +50,7 @@
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/java/model/HocVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/java/model/HocVien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/createHocVien.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/createHocVien.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/showHocVien.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search/src/main/webapp/view/showHocVien.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
@@ -59,14 +63,14 @@
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/libs/DemoLogin-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/libs/DemoLogin-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Sevlet_JSP_JSTL_Demo/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/src/main/java/connect_MySQL/Connect_MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/Thi_thu_M3/Thi_Thu_C0322g1_Module3/src/main/java/connect_MySQL/Connect_MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/src/main/webapp/product-request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_cac_loai/servlet-product-c04/src/main/webapp/product-request.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/java/com/example/chuyendoitiente/ConverterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/java/com/example/chuyendoitiente/ConverterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Gradle_JSP/ChuyenDoiTienTe/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/controller/StaffServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/controller/StaffServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien/src/main/java/dao/DepartmentDao.java" afterDir="false" />
@@ -105,7 +109,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Desktop/Module 3",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Module 3/M3_9_tong_quan_ung_dung_web/Thi_thuc_hanh_quan_li_nhan_vien",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -160,7 +164,7 @@
       <workItem from="1657243529430" duration="334000" />
       <workItem from="1658114951511" duration="5159000" />
       <workItem from="1658388054689" duration="629000" />
-      <workItem from="1658477373694" duration="1981000" />
+      <workItem from="1658477373694" duration="2054000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Demo_cac_loai/CRUD_Product" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Demo_cac_loai/MaiThanhHai_SV" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Demo_cac_loai/Mini_Test_CRUD_Search" vcs="Git" />
